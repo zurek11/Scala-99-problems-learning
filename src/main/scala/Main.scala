@@ -1,4 +1,4 @@
-package Learning
+import Learning.ScalaLearning
 
 /**
   * Created by a.zurek on 7/5/2017.
